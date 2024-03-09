@@ -1,0 +1,11 @@
+test2/.pzeditor/
+
+*.bak
+
+*.lotheader
+
+*.bin
+
+*.lotpack
+
+Buildings/.pzeditor/
